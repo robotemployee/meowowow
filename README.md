@@ -1,6 +1,8 @@
 # miauw
 hello. this is something i made forrrrrr engineering and whatever. it's just a template project you can use to have nice intellisense suggestions for our xrp robot circuit board things. i'm not going to share this directly with the other class periods because it's a competition and stuff, butttt it's not like i can stop you.
 
+i'm pretty sure the code is perfectly compatible with what you can write in the web editor - the XRPLib thing we have here is directly taken from our team's board lol. i haven't been able to super test it because i don't have a pocket dimension with 24/7 free access to the real thing, soooooo fingers crossed.
+
 what is intellisense? well. it's. wonderful.
 
 when you type `.` a little window pops up with suggestions
