@@ -52,7 +52,7 @@ links collection
 - link to the xrp web editor https://xrpcode.wpi.edu/ (use this to talk to the board after writing your code in the pretty vscode place)
 
 ### git advertisement
-also, if you don't already use git, you should. you won't be able to directly modify my online repository (the one you just cloned to your local computer), but you can "commit" (save) whatever you want to your computer's local repository. git is a wonderful thing. it's like turbo undo, or like google docs edit history on steroids. truly a lifesaver
+also, if you don't already use git, you should. you won't be able to directly modify my online thing (the one you just cloned to your local computer), but you can "commit" (save) whatever you want to the local copy you just made (that's what cloning is). git is a wonderful thing. it's like turbo undo, or like google docs edit history on steroids. truly a lifesaver
 
 # miauouw.
 ### it might complain a little too much
