@@ -8,14 +8,16 @@ when you type `.` a little window pops up with suggestions
 have a look
 
 `.` operator suggestions, so you can get a built-in list of what something can do for you:
+
 ![typing 'Board.' gives you a list of suggestions](image.png)
 hovering your mouse over things explains them to you:
+
 ![gamepad get value hovering over](image-1.png)
-
-
 control + click on anything to see where it goes:
+
 ![control clicked on the declaring of a Gamepad variable gp](image-3.png)
 and where it comes from:
+
 ![set_rgb_led() stub code](image-4.png)
 (though for our situation specifically it's not as useful as is normal)
 
