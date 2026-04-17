@@ -11,6 +11,8 @@ have a look
 
 ![typing 'Board.' gives you a list of suggestions](image.png)
 
+(you can also press tab to auto-complete the blue highlighted one, like minecraft commands)
+
 hovering your mouse over things explains them to you:
 
 ![gamepad get value hovering over](image-1.png)
