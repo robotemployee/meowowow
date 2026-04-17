@@ -33,7 +33,7 @@ and where it comes from:
 # miauw?
 using vscode, clone this repository, add the recommended extensions (i put them there purposefully), write your code with the nice syntax highlighting and intellisense you now have available to you
 
-then when you wanna upload it to the robot, just select all and copypaste your code into the normal web editor
+then when you wanna upload it to the robot, just select all and copypaste your code into the normal / official xrp web editor, since this doesn't have upload / bluetooth functionality
 
 yes, trust the extension people. i guess. they all have a gazillion downloads, it's whatever
 
@@ -49,6 +49,7 @@ links collection
   6. paste.
   7. make sure to install the reccomended suggestions when vscode prompts you about it. the rest doesn't really matter.
 - git link for this repo https://github.com/robotemployee/meowowow.git
+- link to the xrp web editor https://xrpcode.wpi.edu/ (use this to talk to the board after writing your code in the pretty vscode place)
 
 ### git advertisement
 also, if you don't already use git, you should. you won't be able to directly modify my online repository (the one you just cloned to your local computer), but you can "commit" (save) whatever you want to your computer's local repository. git is a wonderful thing. it's like turbo undo, or like google docs edit history on steroids. truly a lifesaver
