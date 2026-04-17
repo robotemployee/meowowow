@@ -47,7 +47,7 @@ links collection
   4. in vscode on the top left, click file > New Window
   5. in the Welcome page it shows you, under Start, click "Clone Git Repository"
   6. paste.
-  7. the rest doesn't really matter.
+  7. make sure to install the reccomended suggestions when vscode prompts you about it. the rest doesn't really matter.
 - git link for this repo https://github.com/robotemployee/meowowow.git
 
 ### git advertisement
