@@ -27,7 +27,5 @@ while not board.is_button_pressed():
 
     time.sleep(0.05)
 
-    board.set_rgb_led(forward > 0.2 and 255 or 0, forward < -0.2 and 255 or 0, 0)
-
 drivetrain.set_effort(0, 0)
 print("Stopped.")
