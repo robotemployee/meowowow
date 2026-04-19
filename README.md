@@ -37,6 +37,8 @@ then when you wanna upload it to the robot, just select all and copypaste your c
 
 yes, trust the extension people. i guess. they all have a gazillion downloads, it's whatever
 
+**if you don't know what any of that means, don't worry. it's just a copy and pasting w a few clicks in between, tutorials in miaw???**
+
 # miauw???
 links collection
 - vscode download https://code.visualstudio.com/download it's a microsoft product don't worry
