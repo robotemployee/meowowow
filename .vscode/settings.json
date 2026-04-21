@@ -21,5 +21,6 @@
         "--disable=C0103,C0114,C0115,C0116,C0301,C0302,C0321,C0325,C0411,W0401,W0611,W0614,R0913,R0914,R0915",
         "--ignore-paths=.*/XRPLib/.*"
     ],
-    "python.analysis.ignore": ["**/XRPLib/**"]
+    "python.analysis.ignore": ["**/XRPLib/**"],
+    "micropico.autoConnect": false
 }
